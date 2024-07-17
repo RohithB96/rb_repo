@@ -10,3 +10,5 @@
     <img src="frog_jumping.gif" alt="Frog Jumping GIF">
 </body>
 </html>
+
+Make the deployment changes
